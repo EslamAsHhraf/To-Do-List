@@ -1,11 +1,11 @@
-# <img  align="center" width= 65px  src="https://media4.giphy.com/media/n24Eq6str4wLglFVw6/giphy.gif?cid=ecf05e47uhw6hojabtvjipbw8n5wlcu6bwuqwd22t05ajk35&rid=giphy.gif&ct=s"> To Do List
+# <img  align="center" width= 65px  src="https://media3.giphy.com/media/Plsxk51MC0UArt83I3/giphy.gif?cid=ecf05e47x5twjvpaaeqgr2yfqkm4kk8ey6vrzzdbasqhsul6&rid=giphy.gif&ct=s"> To Do List
 
 <div align="center">
 
 <img height=400px src="https://cdn.dribbble.com/users/4241563/screenshots/11874468/media/7796309c77cf752615a3f9062e6a3b3d.gif">
 <div align="center"  width=10%>
 
-### "Time is Important.⏰"
+### "Know exactly what you want to improve your time management.⏰"
 
 </div>
 </div>
@@ -77,7 +77,7 @@ npm start
 ## <img  align= center width= 70px height =70px src="https://img.genial.ly/5f91608064ad990c6ee12237/bd7195a3-a8bb-494b-8a6d-af48dd4deb4b.gif?genial&1643587200063"> Demo
 
 <div  align="center">
-<video src="https://user-images.githubusercontent.com/71986226/189539176-f55e4124-355e-4628-98fe-e4da8e216153.mp4">
+<video src="https://user-images.githubusercontent.com/71986226/189552859-023d588f-b610-4200-b024-d340acae22aa.mp4">
 </video> 
 </div>
 
@@ -99,4 +99,4 @@ npm start
 
 ## 🔒 License
 
-> **Note**: This software is licensed under MIT License, See [License](https://github.com/EslamAsHhraf/Rick-and-Morty/blob/main/LICENSE) for more information ©EslamAsHhraf.
+> **Note**: This software is licensed under MIT License, See [License](https://github.com/EslamAsHhraf/To-Do-List/blob/main/LICENSE) for more information ©EslamAsHhraf.
