@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img height=400px src="https://cdn.dribbble.com/users/4241563/screenshots/11874468/media/7796309c77cf752615a3f9062e6a3b3d.gif">
+<img height=400px src="https://media1.giphy.com/media/aSZSj0mT8f6tW/giphy.gif?cid=ecf05e47h1ah4mrjxg2rwi3a93595da0vbl6mk41uqy1lxnn&rid=giphy.gif&ct=g">
 <div align="center"  width=10%>
 
 ### "Know exactly what you want to improve your time management.⏰"
