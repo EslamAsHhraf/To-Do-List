@@ -1,11 +1,11 @@
-# <img  align="center" width= 65px  src="https://media0.giphy.com/media/Yo2fMrTG6dgLdiKX2z/giphy.gif?cid=ecf05e4757ttjg6wa3e9ntn47sm3lp7wdelj19t5o3hgdvl6&rid=giphy.gif&ct=s"> Rick and Morty
+# <img  align="center" width= 65px  src="https://media4.giphy.com/media/n24Eq6str4wLglFVw6/giphy.gif?cid=ecf05e47uhw6hojabtvjipbw8n5wlcu6bwuqwd22t05ajk35&rid=giphy.gif&ct=s"> To Do List
 
 <div align="center">
 
-<img height=400px src="https://64.media.tumblr.com/51015ec638a516f7f7d353ca198a5091/tumblr_pdbo9wBAe11xd0gvgo1_1280.gif">
+<img height=400px src="https://cdn.dribbble.com/users/4241563/screenshots/11874468/media/7796309c77cf752615a3f9062e6a3b3d.gif">
 <div align="center"  width=10%>
 
-### "Everything will be fine in the end, Morty. And if it isn't, it's not the end yet.⛰"
+### "Time is Important.⏰"
 
 </div>
 </div>
@@ -16,7 +16,6 @@
 
 - <a href ="#about"> 📙 Overview</a>
 - <a href ="#Started"> 💻 Get Started</a>
-- <a href ="#Features"> ☢ Features of the project</a>
 - <a href ="#Video"> 🎥 Demo</a>
 - <a href ="#Contributors"> ✨ Contributors</a>
 - <a href ="#License"> 🔒 License</a>
@@ -28,23 +27,17 @@
 <ul>
  <li>
 
-Build **Rick and Morty** website by using **React JS**</li>
+Build **To Do List** website by using **React JS**</li>
 
  <li> The Project is built by
  
  <ul>
     <li> React Hooks (useState, useEffect) </li>
-    <li> React Components </li>
-    <li> Fetch API </li>
-    <li> Bootstrap and Scss - for styling </li>
-    <li> Pagination </li>
-    <li>Search bar </li>
-    <li>Data Filtering </li>
-    <li> Dynamic Routing </li>
+    <li> CSS - for styling </li>
    </ul>
    </li>
 </ul>
-<li>Let's Go visit <a href="https://snazzy-meerkat-1bf0dc.netlify.app/">Rick & Morty Wiki
+<li>Let's Go visit <a href="https://willowy-twilight-f6acef.netlify.app/">To Do List</a>
 </li>
 <hr style="background-color: #4b4c60"></hr>
 <a id = "Started"></a>
@@ -57,7 +50,7 @@ Build **Rick and Morty** website by using **React JS**</li>
 <br>
 
 ```
-git clone https://github.com/EslamAsHhraf/Rick-and-Morty
+git clone https://github.com/EslamAsHhraf/To-Do-List
 ```
 
 </li>
@@ -77,45 +70,6 @@ npm start
 
 </li>
 </ol>
-<hr style="background-color: #4b4c60"></hr>
-<a id ="Features"></a>
-
-## <img align= center width=65px height=65px src="https://raw.githubusercontent.com/EslamAsHhraf/EslamAsHhraf/main/images/skills.gif">Features of the project
-
-<table  >
-<tr >
-<th width=20% >Feature</th>
-<th >Description</th>
-</tr>
-<tr>
-<td> 🔷 Search bar</td>
-<td> You can use search bar for searching  your favourite characters.</td>
-</tr>
-<tr>
-<td> 🔶 Pagination</td>
-<td>In total there are 800+ characters. In order to display and manage all of these characters, there is a pagination system where each page will display 20 characters.</td>
-</tr>
-<tr>
-<td> 🔷 Filters</td>
-<td>There are lots of labels present in the API. Using them, you can filter  data and search for exactly what you need.</td>
-</tr>
-<tr>
-<td> 🔶 Routing</td>
-<td>You can change your page by using navbar
-<ul>
-<br>
-<li>Characters</li>
-<li>Episodes</li>
-<li>Location</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td> 🔷 Dynamic Routing</td>
-<td>You can learn more about a character when you click on it.
-</td>
-</tr>
-</table>
 
 <hr style="background-color: #4b4c60"></hr>
 <a id ="Video"></a>
