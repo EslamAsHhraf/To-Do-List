@@ -1,4 +1,4 @@
-# <img  align="center" width= 65px  src="https://media3.giphy.com/media/Plsxk51MC0UArt83I3/giphy.gif?cid=ecf05e47x5twjvpaaeqgr2yfqkm4kk8ey6vrzzdbasqhsul6&rid=giphy.gif&ct=s"> To Do List
+# 📃 To Do List
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 <hr style="background-color: #4b4c60"></hr>
 
-## <img align= center width=50px height=50px src="https://user-images.githubusercontent.com/71986226/154075883-2a5679d2-b411-448f-b423-9565babf35aa.gif"> Table of Contents
+## 📝 Table of Contents
 
 - <a href ="#about"> 📙 Overview</a>
 - <a href ="#started"> 💻 Get Started</a>
@@ -22,7 +22,7 @@
 <hr style="background-color: #4b4c60"></hr>
 <a id = "about"></a>
 
-## <img align="center"  height =50px src="https://user-images.githubusercontent.com/71986226/154076110-1233d7a8-92c2-4d79-82c1-30e278aa518a.gif"> Overview
+## 📙 Overview
 
 <ul>
  <li>
@@ -42,7 +42,7 @@ Build **To Do List** website by using **React JS**</li>
 <hr style="background-color: #4b4c60"></hr>
 <a id = "Started"></a>
 
-## <img  align= center width=50px height=50px src="https://c.tenor.com/HgX89Yku5V4AAAAi/to-the-moon.gif"> Get Started
+## 🚀 Get Started
 
 <ol>
 <li>Clone the repository.
@@ -74,7 +74,7 @@ npm start
 <hr style="background-color: #4b4c60"></hr>
 <a id ="Video"></a>
 
-## <img  align= center width= 70px height =70px src="https://img.genial.ly/5f91608064ad990c6ee12237/bd7195a3-a8bb-494b-8a6d-af48dd4deb4b.gif?genial&1643587200063"> Demo
+## 🎥 Demo
 
 <div  align="center">
 <video src="https://user-images.githubusercontent.com/71986226/189552859-023d588f-b610-4200-b024-d340acae22aa.mp4">
@@ -84,7 +84,7 @@ npm start
 <hr style="background-color: #4b4c60"></hr>
 <a id ="Contributors"></a>
 
-## <img align="center"  height =60px src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"> Contributors
+## 👑 Contributors
 
 <br>
 <table >
